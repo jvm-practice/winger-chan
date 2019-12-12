@@ -1,3 +1,2 @@
-# .github/auto-merge.yml
 mergeMethod: squash
 deleteBranchAfterMerge: true
